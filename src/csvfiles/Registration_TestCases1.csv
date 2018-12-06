@@ -1,0 +1,40 @@
+1,,Johnsmith,MeadowRun,1234567890,TX123456,varun@gmail.com,Abcd123,1234567890,Your username must between 4 and 10 digits,,,,,,,,Please correct the following errors
+2,ab1,Johnsmith,MeadowRun,1234567890,TX123457,varun@gmail.com,Abcd124,1234567890,Your username must between 4 and 10 digits,,,,,,,,Please correct the following errors
+3,ab12,Johnsmith,MeadowRun,1234567890,TX123458,varun@gmail.com,Abcd125,1234567890,,,,,,,,,
+4,abcdefghi1,Johnsmith,MeadowRun,1234567890,TX123459,varun@gmail.com,Abcd126,1234567890,,,,,,,,,
+5,abcdefghi12,Johnsmith,MeadowRun,1234567890,TX123460,varun@gmail.com,Abcd127,1234567890,Your username must between 4 and 10 digits,,,,,,,,Please correct the following errors
+6,abcdefghi1abcdefghi1abcdefghi1,Johnsmith,MeadowRun,1234567890,TX123461,varun@gmail.com,Abcd128,1234567890,Your username must between 4 and 10 digits,,,,,,,,Please correct the following errors
+7,abcd,Johnsmith,MeadowRun,1234567890,TX123462,varun@gmail.com,Abcd129,1234567890,,,,,,,,,
+8,vkr5495,,MeadowRun,1234567890,TX123463,varun@gmail.com,Abcd130,1234567890,,Your Full Name must between 1 and 20 characters,,,,,,,Please correct the following errors
+9,vkr5496,J,MeadowRun,1234567890,TX123464,varun@gmail.com,Abcd131,1234567890,,,,,,,,,
+10,vkr5497,JohnEdwardSmithSmith,MeadowRun,1234567890,TX123465,varun@gmail.com,Abcd132,1234567890,,,,,,,,,
+11,vkr5498,JohnEdwardSmithSmithh,MeadowRun,1234567890,TX123466,varun@gmail.com,Abcd133,1234567890,,Your Full Name must between 1 and 20 characters,,,,,,,Please correct the following errors
+12,vkr5499,JohnEdwardSmithSmithJohnEdwardSmithSmithJohnEdwardSmithSmith,MeadowRun,1234567890,TX123467,varun@gmail.com,Abcd134,1234567890,,Your Full Name must between 1 and 20 characters,,,,,,,Please correct the following errors
+13,vkr5500,johnedward,MeadowRun,1234567890,TX123468,varun@gmail.com,Abcd135,1234567890,,Your First Name must start with a capital letter,,,,,,,Please correct the following errors
+16,vkr5503,Johnsmith,MeadowRunc,1234567890,TX123471,varun@gmail.com,Abcd138,1234567890,,,,,,,,,
+20,vkr5507,Johnsmith,MeadowRun,,TX123475,varun@gmail.com,Abcd142,1234567890,,,Your UTA ID must be 10 digits,,,,,,Please correct the following errors
+21,vkr5508,Johnsmith,MeadowRun,123456789,TX123476,varun@gmail.com,Abcd143,1234567890,,,Your UTA ID must be 10 digits,,,,,,Please correct the following errors
+22,vkr5509,Johnsmith,MeadowRun,1234567890,TX123477,varun@gmail.com,Abcd144,1234567890,,,,,,,,,
+23,vkr5510,Johnsmith,MeadowRun,12345678901,TX123478,varun@gmail.com,Abcd145,1234567890,,,Your UTA ID must be 10 digits,,,,,,Please correct the following errors
+24,vkr5511,Johnsmith,MeadowRun,1.23E+21,TX123479,varun@gmail.com,Abcd146,1234567890,,,Your UTA ID must be 10 digits,,,,,,Please correct the following errors
+25,vkr5512,Johnsmith,MeadowRun,A123456789,TX123480,varun@gmail.com,Abcd147,1234567890,,,Your UtaID must be a number,,,,,,Please correct the following errors
+26,vkr5513,Johnsmith,MeadowRun,1234567890,,varun@gmail.com,Abcd148,1234567890,,,,,Your license must be 8 digits,,,,Please correct the following errors
+27,vkr5514,Johnsmith,MeadowRun,1234567890,tx12345,varun@gmail.com,Abcd149,1234567890,,,,,Your license must be 8 digits,,,,Please correct the following errors
+28,vkr5515,Johnsmith,MeadowRun,1234567890,tx123456,varun@gmail.com,Abcd150,1234567890,,,,,,,,,
+29,vkr5516,Johnsmith,MeadowRun,1234567890,tx1234567,varun@gmail.com,Abcd151,1234567890,,,,,Your license must be 8 digits,,,,Please correct the following errors
+30,vkr5517,Johnsmith,MeadowRun,1234567890,tx12345678900000000,varun@gmail.com,Abcd152,1234567890,,,,,Your license must be 8 digits,,,,Please correct the following errors
+32,vkr5519,Johnsmith,MeadowRun,1234567890,TX123456,,Abcd154,1234567890,,,,,,Your email must be between 12 and 40 characters,,,Please correct the following errors
+34,vkr5521,Johnsmith,MeadowRun,1234567890,TX123458,ab@gmail.com,Abcd156,1234567890,,,,,,,,,
+35,vkr5522,Johnsmith,MeadowRun,1234567890,TX123459,abcdabcdabcdabcdabcdabcdabcdab@gmail.com,Abcd157,1234567890,,,,,,,,,
+36,vkr5523,Johnsmith,MeadowRun,1234567890,TX123460,abcdabcdabcdabcdabcdabcdabcdaba@gmail.com,Abcd158,1234567890,,,,,,Your email must be between 12 and 40 characters,,,Please correct the following errors
+37,vkr5524,Johnsmith,MeadowRun,1234567890,TX123461,abcdabcdabcdabcdabcdabcdabcdabcdabcdabcdaaaaaaaaaaaaaaaa@gmail.com,Abcd159,1234567890,,,,,,Your email must be between 12 and 40 characters,,,Please correct the following errors
+38,vkr5525,Johnsmith,MeadowRun,1234567890,TX123462,abcdefghk,Abcd160,1234567890,,,,,,your email must have @ and proper extensions,,,Please correct the following errors
+39,vkr5526,Johnsmith,MeadowRun,1234567890,TX123463,abcdefgh@,Abcd161,1234567890,,,,,,your email must have @ and proper extensions,,,Please correct the following errors
+42,vkr5529,Johnsmith,MeadowRun,1234567890,TX123466,varun@gmail.com,Abcd12,1234567890,,,,,,,,,
+48,vkr5535,Johnsmith,MeadowRun,1234567890,TX123472,varun@gmail.com,Abcd124,123456789,,,,,,,,please enter the 10 digit phone number,Please correct the following errors
+50,vkr5537,Johnsmith,MeadowRun,1234567890,TX123474,varun@gmail.com,Abcd126,12345678901,,,,,,,,please enter the 10 digit phone number,Please correct the following errors
+51,vkr5538,Johnsmith,MeadowRun,1234567890,TX123475,varun@gmail.com,Abcd127,1.23E+16,,,,,,,,please enter the 10 digit phone number,Please correct the following errors
+52,vkr5539,Johnsmith,MeadowRun,1234567890,TX123476,varun@gmail.com,Abcd128,a123456789,,,,,,,,you just have to enter numbers,Please correct the following errors
+53,vkr5540,Johnsmith,MeadowRun1234,1234567890,TX123477,varun@gmail.com,Abcd123,1234567890,,,,Your Address must between 1 and 10 characters,,,,,Please correct the following errors
+54,Tushar,Johnsmith,MeadowRun,1234567891,TX123478,varun@gmail.com,Abcd124,1234567891,Username already in database,,,,,,,,Please correct the following errors
+55,vkr5551,Johnsmith,meadowrun,1234567892,TX123479,varun@gmail.com,Abcd125,1234567892,,,,Your Address must start with a capital letter,,,,,Please correct the following errors

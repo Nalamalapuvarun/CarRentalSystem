@@ -1,0 +1,5 @@
+1,ab1,Your username must between 4 and 10 digits,Please correct the following errors
+2,Tushar,,
+3,abcdabcda1,Your Username is not in database,Please correct the following errors
+4,abcdabcdabcdabcd,Your username must between 4 and 10 digits,Please correct the following errors
+5,abcdabcdab1,Your username must between 4 and 10 digits,Please correct the following errors

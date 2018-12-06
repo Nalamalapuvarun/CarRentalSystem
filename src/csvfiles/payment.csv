@@ -1,0 +1,11 @@
+1,,123,19-Dec,Please correct the following errors,card number cant be empty,,
+2,1234567890123456,,19-Dec,Please correct the following errors,,cvv number cant be empty,
+3,1234567890123456,123,,Please correct the following errors,,,Expiration date cannot be empty
+4,abc,123,19-Dec,Please correct the following errors,you just have to enter numbers,,
+5,1,123,19-Dec,Please correct the following errors,Card number should be 16 digits,,
+6,12345678901234561,123,19-Dec,Please correct the following errors,Card number should be 16 digits,,
+7,12345678901234561,123,19-Dec,Please correct the following errors,Card number should be 16 digits,,
+8,1234567890123456,abc,19-Dec,Please correct the following errors,,you just have to enter numbers,
+9,1234567890123456,1,19-Dec,Please correct the following errors,,cvv number should be 3 digits,
+10,1234567890123456,2,19-Dec,Please correct the following errors,,cvv number should be 3 digits,
+11,1234567890123456,4,19-Dec,Please correct the following errors,,cvv number should be 3 digits,
