@@ -1,0 +1,11 @@
+
+body{background-image: url("car3.png"); background-attachment:fixed;
+  background-repeat:no-repeat;background-position:bottom;
+    background-color:#c9c3c3;width:100%;}
+    h2{font-weight:bold;font-weight:900;}
+    table{width:50%;font-weight:900;font-weigth:bold;}
+   table tr td{font-weigth:bold;font-weight:900;}
+   tr:hover {background-color:#4CAF50;}
+    a{font-weight:bold;text-align:left;color:black;}
+
+.logoutstyle{font-weight:bold;color:blue;text-align:right;vertical-align:top;margin-left:1200px;}
